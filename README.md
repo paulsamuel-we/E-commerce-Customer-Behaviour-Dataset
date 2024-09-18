@@ -81,3 +81,7 @@ The dataset was generated using machine learning algorithms that simulate typica
 ## **License**
 
 This dataset is licensed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+## **Kaggle Link**
+
+You can access the dataset on Kaggle [here](https://www.kaggle.com/datasets/samps74/e-commerce-customer-behavior-dataset).
